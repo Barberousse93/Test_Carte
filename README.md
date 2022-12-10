@@ -1,2 +1,2 @@
 # Test_Carte
-Premier code JavaScript pour déclancher une animation.
+Premier code JavaScript pour déclencher une animation.
